@@ -28,7 +28,11 @@ Use "Install from URL" in the Extensions section of WebUI.
 
 ## Notes
 
-[1] This is a personally customized version of Cozy Nest, as such it has limitations to the UI itself. Firstly, it uses an earlier version of Cozy Nest, and will not be updated to accomodate future versions. Secondly, these customizations are made to my own personal liking, and there are limitations to how far these customizations extend to other features. For example, thirdy party extensions may not match the theme perfectly. Also the tab navigation menu is fixed to the left side and some other features have been removed. These decisions were done for the overall good of this fork's intent. Despite this, I believe this fork is an overall improvement. Since I cannot cover all the bases at once, there may be bugs or alignment issues with certain less used features, such as anything but the Checkpoint/VAE/Clip skip menu's in the top quicksettings bar. Anything else added to the quicksettings bar may be aligned a bit differently. For most users this probably won't be an issue.
+[1] This is a personally customized version of Cozy Nest, as such it has limitations to the UI itself. 
+
+Firstly, it uses an earlier version of Cozy Nest, and will not be updated to accomodate future versions. Secondly, these customizations are made to my own personal liking, and there are limitations to how far these customizations extend to other features. For example, thirdy party extensions may not match the theme perfectly. Also the tab navigation menu is fixed to the left side and some other features have been removed. These decisions were done for the overall good of this fork's intent. 
+
+Despite this, I believe this fork is an overall improvement. Since I cannot cover all the bases at once, there may be bugs or alignment issues with certain less used features, such as anything but the Checkpoint/VAE/Clip skip menu's in the top quicksettings bar. Anything else added to the quicksettings bar may be aligned a bit differently. For most users this probably won't be an issue.
 
 [2] Some seldom used features have been removed from the UI. Such as the checkpoint and styles refresh buttons, and X/Y plot comparison scripts. To restore them, open style.css with notepad and remove the annotated code found at the end of the file. They are segmented so you can easily identify and remove the appropriate code if you want to pick and choose which of these features you want visible. 
 
