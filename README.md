@@ -38,5 +38,3 @@ Despite this, I believe this fork is an overall improvement. Since I cannot cove
 
 ## Credits
 * [Nevysha] https://github.com/Nevysha/Cozy-Nest the base for this customized version
-* [anapnoe] (https://github.com/anapnoe/stable-diffusion-webui-ux)'s incredible work on its fork of sd-webui
-* [AUTOMATIC1111] (https://github.com/AUTOMATIC1111/stable-diffusion-webui)'s work on sd-webui
