@@ -1,0 +1,11 @@
+{
+  "main_menu_position": "left",
+  "quicksettings_position": "left",
+  "accent_generate_button": false,
+  "font_size": 20,
+  "waves_color": "#000000",
+  "bg_gradiant_color": "#000000",
+  "accent_color": "#5d677e",
+  "card_height": "8",
+  "card_width": 8
+}
